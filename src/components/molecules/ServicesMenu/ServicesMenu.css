@@ -1,0 +1,24 @@
+.services-left-menu {
+  width: 713px;
+  height: 122px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 15px;
+}
+
+.services-left-menu-keterangan {
+ margin-left: 30px;
+ flex: 1;
+
+}
+
+.services-left-menu-keterangan h4 {
+  font-family: 'Nunito-Regular';
+  font-weight: 400;
+  font-size: 21px;
+}
+
+.services-left-menu-keterangan  > .title {
+  font-size: 29px;
+}

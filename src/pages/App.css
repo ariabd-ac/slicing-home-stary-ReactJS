@@ -1,0 +1,31 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.App h3 {
+  font-family: 'Nunito-Regular';
+}
+
+.container-landing {
+  background-color: #FFFFFF;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  width: 1440px;
+}
+
+@media only screen and (min-width : 768px) {
+  .container-landing{
+    /* background-color: #ff0; */
+  }
+}
+
+@media only screen and (min-width : 992px) {
+  .container-landing{
+
+    /* background-color: red; */
+  }
+}

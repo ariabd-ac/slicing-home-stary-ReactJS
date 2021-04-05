@@ -1,0 +1,40 @@
+.page-services {
+  width: 1440px;
+  height: 637px;
+  padding-left: 100px;
+  padding-right: 100px;
+  display: flex;
+  justify-content: space-between;
+  
+}
+
+.services-left {
+  margin-top: 18px;
+}
+
+.services-left h3 {
+  font-family: 'Nunito-SemiBold';
+  font-weight: 600;
+  font-size: 36px;
+  text-transform: capitalize;
+  margin-bottom: 54px;
+}
+
+.services-right {
+  margin-top: 18px;
+  
+}
+
+.services-image {
+  top: -60px;
+  position: absolute;
+  left: 74px;
+}
+
+.servies-right-kotak {
+  height : 431px;
+  width: 477px;
+  background-color: #FFC839;
+  margin-top: 89px;
+  position: relative;
+}

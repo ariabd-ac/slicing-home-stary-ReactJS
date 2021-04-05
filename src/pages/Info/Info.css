@@ -1,0 +1,11 @@
+.page-info {
+  /* background-color: #E5E5E5; */
+  height: 690px;
+  width: 1440px;
+}
+
+.wrapper-info {
+  display: flex;
+  margin-top: 70px;
+  justify-content: center;
+}

@@ -1,0 +1,50 @@
+.container-book {
+  width: 1241px;
+  height: 174px;
+  margin-top: 80px;
+  background: #FFFFFF;
+  box-shadow: 6px 9px 59px 3px rgba(0, 0, 0, 0.01);
+  padding-left: 91px;
+  padding-right: 92px;
+  display: flex;
+  flex-direction: column;
+  border-radius: 4px;
+}
+
+.book-top {
+  display: flex;
+  flex-direction: row;
+  margin-top: 21px;
+  margin-bottom: 11px;
+}
+
+.book-bot {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.book-bot button {
+  width: 247px;
+  height: 61px;
+  background-color: #FFC839;
+}
+
+.book-left {
+  width: 203px;
+  height: 61px;
+  background-color: #FFF0CB;
+}
+
+.book-right {
+  width: 828px;
+  height: 61px;
+  background-color: #FFF0CB;
+  margin-left: 27px;
+}
+
+.book-pers {
+  width: 179px;
+  height: 61px;
+  background-color: #FFF0CB;
+}

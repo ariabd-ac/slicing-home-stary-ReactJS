@@ -1,0 +1,55 @@
+.page{
+  position: relative;
+  flex: 1;
+}
+
+.page-hero {
+  height: 865px;
+  display: flex;
+  flex-direction: column;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+.bg-image{
+  /* position: absolute; */
+  width: 1440px;
+  height: 865px;
+  left: 0px;
+  top: 0px;
+  background-size: cover;
+  z-index: -1;
+}
+
+.gradient{
+position: absolute;
+width: 1440px;
+height: 865px;
+left: 0px;
+top: 0px;
+opacity: 0.8;
+background: linear-gradient(0.87deg, rgba(2, 55, 135, 0.9) 0.69%, rgba(81, 38, 174, 0.4736) 100.48%, rgba(38, 92, 174, 0.0102906) 100.49%, rgba(195, 195, 196, 0.00520833) 100.5%, #76A6EF 100.51%);
+}
+
+.text-welcome{
+  display: flex;
+  margin-top: 173px;
+  flex-direction: column;
+}
+
+.text-welcome h3 {
+  color: white;
+  font-family: 'Nunito-Bold';
+  font-weight: 700;
+  font-size: 60px;
+  max-width: 60%;
+}
+
+.text-welcome h4 {
+  font-family: 'Nunito-SemiBold';
+  font-weight: 400;
+  font-size: 29px;
+  color: white;
+  max-width: 70%;
+  margin-top: 20px;
+}

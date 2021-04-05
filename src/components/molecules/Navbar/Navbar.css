@@ -1,0 +1,20 @@
+.container{
+  margin-top: 42px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  /* background-color: tomato; */
+}
+
+.menu{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  flex: 1;
+  /* background-color: teal; */
+  margin-left: 385px;
+}
+
+.container h3 {
+  color: white;
+}
