@@ -1,0 +1,75 @@
+.contact-person-page {
+  width: 1440px;
+  height: 601px;
+  /* background-color: yellow; */
+  /* padding: 57px; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.contact-person-wraper {
+  width: 1241px;
+  height: 437px;
+  background-color: #FFF5DA;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.contact-person-text h3 {
+  font-family: 'Nunito-SemiBold';
+  font-size: 36px;
+  font-weight: 600;
+  color: #323232;
+}
+
+.contact-person-text h4 {
+  font-family: 'Nunito-Regular';
+  font-size: 29px;
+  font-weight: 400;
+  color: #646464;
+}
+
+.contact-person-input-number {
+  background-color: #F4F4F4;
+  width: 703px;
+  height: 61px;
+  display: flex;
+  align-items: center;
+}
+
+.contact-person-phone {
+  display: flex;
+}
+
+.contact-person-phone img {
+  margin-left: 27px;
+  margin-right: 17px;
+}
+
+.contact-person-phone p {
+  font-family: 'Nunito-Regular';
+  font-size: 29px;
+  font-weight: 400;
+  margin-right: 9px;
+}
+
+.input-number {
+  border: none;
+  padding: 15px;
+  background-color: transparent;
+  display: flex;
+  /* flex: 1; */
+  border-radius: 8px;
+  outline: none;
+  width: 520px;
+  box-sizing: border-box;
+
+  font-family: 'Nunito-Regular';
+  font-size: 29px;
+  font-weight: 400;
+  margin-top: -3px;
+  
+}

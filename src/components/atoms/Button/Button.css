@@ -1,0 +1,14 @@
+.button {
+  padding: 12px;
+  font-size: 16px;
+  background-color: #FFC839;
+  width: 50%;
+  box-sizing: border-box;
+  border-radius: 12px;
+  border: none;
+  color: black;
+  text-transform: capitalize;
+  cursor: pointer;
+  font-family: 'Nunito-SemiBold';
+  font-size: 29px;
+}

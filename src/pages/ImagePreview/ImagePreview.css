@@ -1,0 +1,23 @@
+.image-preview-page {
+  width: 1440px;
+  height: 1052px;
+}
+
+.image-preview-page h3 {
+  margin-top: 18px;
+  margin-left: 100px;
+  margin-bottom: 45px;
+  font-family: 'Nunito-SemiBold';
+  font-size: 36px;
+  font-weight: 6 00;
+}
+
+.img-galery {
+  width: 1440px;
+  /* height: 1052px; */
+  padding-left: 100px;
+  padding-right: 60px;
+  display: flex;
+  flex-wrap: wrap;
+  flex: 1;
+}

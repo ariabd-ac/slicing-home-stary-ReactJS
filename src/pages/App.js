@@ -1,4 +1,4 @@
-import { Hero, Info, Services } from '.';
+import { About, ContactPerson, Detail, Footer, Hero, ImagePreview, Info, Services } from '.';
 import './App.css';
 
 function App() {
@@ -7,6 +7,11 @@ function App() {
       <Hero />
       <Info />
       <Services />
+      <ContactPerson />
+      <ImagePreview />
+      <Detail />
+      <About />
+      <Footer />
     </div>
   );
 }
